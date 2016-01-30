@@ -76,28 +76,28 @@ a {
   margin-bottom: 0.1rem;
   color: #ffffff;
   text-align: center;
-  font: amazone; }
+  font: pacifico; }
 
 @media screen and (min-width: 64em) {
   .project-name {
     font-size: 3.25rem;
     color: #ffffff;
     text-align: center;
-    font: amazone;} }
+    font: pacifico;} }
 
 @media screen and (min-width: 42em) and (max-width: 64em) {
   .project-name {
     font-size: 2.25rem;
     color: #ffffff;
     text-align: center;
-    font: amazone;} }
+    font: pacifico;} }
 
 @media screen and (max-width: 42em) {
   .project-name {
     font-size: 1.75rem;
     color: #ffffff;
     text-align: center;
-    font: amazone;} }
+    font: pacifico;} }
 
 .project-tagline {
   margin-bottom: 2rem;
