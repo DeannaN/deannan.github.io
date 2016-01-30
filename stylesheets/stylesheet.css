@@ -54,10 +54,9 @@ a {
       margin-left: 0; } }
 
 .page-header {
-  color: #fff;
-  text-align: center;
-  background-color: #159957;
-  background-image: linear-gradient(120deg, #155799, #159957); }
+    background: #FFFFFF url(https://jobtipsforgeeks.files.wordpress.com/2016/01/cowboy-hat-1129348_1920.jpg) left       center no-repeat; 
+    height:100%; 
+    width:100%; }
 
 @media screen and (min-width: 64em) {
   .page-header {
