@@ -4,7 +4,7 @@
 body {
   padding: 0;
   margin: 0;
-  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Open Sans", "Helvetica Neue", Pacifico, Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
   color: #606c71; }
@@ -57,7 +57,8 @@ a {
     background: #ffffff url(https://jobtipsforgeeks.files.wordpress.com/2016/01/cowboy-hat-1129348_1920.jpg) center no-repeat; 
     height:100%; 
     width:100%;
-    background-size: 100% 100%;}
+    background-size: 100% 100%;
+    font: Pacifico;}
 
 @media screen and (min-width: 64em) {
   .page-header {
