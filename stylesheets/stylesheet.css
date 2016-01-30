@@ -93,19 +93,23 @@ a {
 .project-tagline {
   margin-bottom: 2rem;
   font-weight: normal;
-  opacity: 0.7; }
+  opacity: 0.7;
+  color: #ffffff;}
 
 @media screen and (min-width: 64em) {
   .project-tagline {
-    font-size: 1.25rem; } }
+    font-size: 1.25rem;
+    color: #ffffff;} }
 
 @media screen and (min-width: 42em) and (max-width: 64em) {
   .project-tagline {
-    font-size: 1.15rem; } }
+    font-size: 1.15rem;
+    color: #ffffff;} }
 
 @media screen and (max-width: 42em) {
   .project-tagline {
-    font-size: 1rem; } }
+    font-size: 1rem;
+    color: #ffffff;} }
 
 .main-content :first-child {
   margin-top: 0; }
