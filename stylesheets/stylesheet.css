@@ -57,7 +57,7 @@ a {
     background: #ffffff url(https://jobtipsforgeeks.files.wordpress.com/2016/01/cowboy-hat-1129348_1920.jpg) center no-repeat; 
     height:100%; 
     width:100%;
-    background-size: cover;}
+    background-size: 100%;}
 
 @media screen and (min-width: 64em) {
   .page-header {
