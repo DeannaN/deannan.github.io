@@ -57,7 +57,7 @@ a {
   color: #fff;
   text-align: center;
   background-color: #159957;
-  background-image: linear-gradient(120deg, #155799, #159957); }
+  background-image: <img src="https://jobtipsforgeeks.files.wordpress.com/2016/01/cowboy-hat-1129348_1920.jpg" alt="cowboyhat" class="header">}
 
 @media screen and (min-width: 64em) {
   .page-header {
