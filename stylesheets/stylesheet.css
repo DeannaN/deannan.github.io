@@ -56,72 +56,68 @@ a {
 .page-header {
     background: #ffffff url(https://jobtipsforgeeks.files.wordpress.com/2016/01/cowboy-hat-1129348_1920.jpg) center no-repeat; 
     height:100%; 
-    width:100%;
-    background-size: 100% 100%;}
+    width:100%; }
 
 @media screen and (min-width: 64em) {
   .page-header {
-    padding: 5rem 6rem;
-    background-size: 100% 100%;} }
+    padding: 5rem 6rem; } }
 
 @media screen and (min-width: 42em) and (max-width: 64em) {
   .page-header {
-    padding: 3rem 4rem;
-    background-size: 100% 100%;} }
+    padding: 3rem 4rem; } }
 
 @media screen and (max-width: 42em) {
   .page-header {
-    padding: 2rem 1rem;
-    background-size: 100% 100%;} }
+    padding: 2rem 1rem; } }
 
 .project-name {
   margin-top: 0;
   margin-bottom: 0.1rem;
   color: #ffffff;
-  text-align: center;}
+  text-align: center;
+}
 
 @media screen and (min-width: 64em) {
   .project-name {
     font-size: 3.25rem;
     color: #ffffff;
-    text-align: center;}
+    text-align: center;
+  } }
 
 @media screen and (min-width: 42em) and (max-width: 64em) {
   .project-name {
     font-size: 2.25rem;
     color: #ffffff;
-    text-align: center;}
+    text-align: center;
+  } }
 
 @media screen and (max-width: 42em) {
   .project-name {
     font-size: 1.75rem;
     color: #ffffff;
-    text-align: center;}
+    text-align: center;
+  } }
 
 .project-tagline {
   margin-bottom: 2rem;
   font-weight: normal;
   opacity: 0.7;
-  color: #ffffff;
-  text-align: center;}
+  color: #ffffff;}
 
 @media screen and (min-width: 64em) {
   .project-tagline {
     font-size: 1.25rem;
-    color: #ffffff;
-    text-align: center;}
+    color: #ffffff;} }
 
 @media screen and (min-width: 42em) and (max-width: 64em) {
   .project-tagline {
     font-size: 1.15rem;
-    color: #ffffff;
-    text-align: center;}
+    color: #ffffff;} }
 
 @media screen and (max-width: 42em) {
   .project-tagline {
     font-size: 1rem;
-    color: #ffffff;
-    text-align: center;}
+    color: #ffffff;} }
 
 .main-content :first-child {
   margin-top: 0; }
