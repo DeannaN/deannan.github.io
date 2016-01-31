@@ -73,6 +73,7 @@ a {
     padding: 2rem 1rem; } }
 
 .project-name {
+  font-family: Lobster, Pacifico, serif;
   margin-top: 0;
   margin-bottom: 0.1rem;
   color: #ffffff;
@@ -81,6 +82,7 @@ a {
 
 @media screen and (min-width: 64em) {
   .project-name {
+    font-family: Lobster, Pacifico, serif;
     font-size: 3.25rem;
     color: #ffffff;
     text-align: center;
@@ -88,6 +90,7 @@ a {
 
 @media screen and (min-width: 42em) and (max-width: 64em) {
   .project-name {
+    font-family: Lobster, Pacifico, serif;
     font-size: 2.25rem;
     color: #ffffff;
     text-align: center;
@@ -95,6 +98,7 @@ a {
 
 @media screen and (max-width: 42em) {
   .project-name {
+    font-family: Lobster, Pacifico, serif;
     font-size: 1.75rem;
     color: #ffffff;
     text-align: center;
